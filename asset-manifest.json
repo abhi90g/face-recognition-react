@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/face-recognition-react/static/css/main.adcc4cf0.chunk.css",
+    "main.js": "/face-recognition-react/static/js/main.e24fff1c.chunk.js",
+    "main.js.map": "/face-recognition-react/static/js/main.e24fff1c.chunk.js.map",
+    "runtime-main.js": "/face-recognition-react/static/js/runtime-main.2c7acea2.js",
+    "runtime-main.js.map": "/face-recognition-react/static/js/runtime-main.2c7acea2.js.map",
+    "static/css/2.31461e4f.chunk.css": "/face-recognition-react/static/css/2.31461e4f.chunk.css",
+    "static/js/2.59ef0ed3.chunk.js": "/face-recognition-react/static/js/2.59ef0ed3.chunk.js",
+    "static/js/2.59ef0ed3.chunk.js.map": "/face-recognition-react/static/js/2.59ef0ed3.chunk.js.map",
+    "static/js/3.c29e9fc1.chunk.js": "/face-recognition-react/static/js/3.c29e9fc1.chunk.js",
+    "static/js/3.c29e9fc1.chunk.js.map": "/face-recognition-react/static/js/3.c29e9fc1.chunk.js.map",
+    "index.html": "/face-recognition-react/index.html",
+    "service-worker.js": "/face-recognition-react/service-worker.js",
+    "service-worker.js.map": "/face-recognition-react/service-worker.js.map",
+    "static/css/2.31461e4f.chunk.css.map": "/face-recognition-react/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.adcc4cf0.chunk.css.map": "/face-recognition-react/static/css/main.adcc4cf0.chunk.css.map",
+    "static/js/2.59ef0ed3.chunk.js.LICENSE.txt": "/face-recognition-react/static/js/2.59ef0ed3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c7acea2.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.59ef0ed3.chunk.js",
+    "static/css/main.adcc4cf0.chunk.css",
+    "static/js/main.e24fff1c.chunk.js"
+  ]
+}
